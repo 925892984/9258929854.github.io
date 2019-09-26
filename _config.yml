@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+deploy:
+  type: get
+  repository: https://github.com/925892984/925892984.github.io
+  branch: master
